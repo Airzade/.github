@@ -6,8 +6,6 @@ Darüber hinaus hat Airzade das Ziel, Software-Plattformen zu entwickeln, die ü
 
 Durch diese breitgefächerte Ausrichtung möchte Airzade ein vielfältiges und dynamisches Ökosystem schaffen, das Kreativität und Innovation fördert und sowohl Nutzer als auch Entwickler gleichermaßen anspricht.
 
-## Airzade Bedeutung
-
 ### Für was steht Airzade:
 - A - Anwendungen
 - I - Innovation
