@@ -1,6 +1,6 @@
 # Airzade
 
-Die Airzade-Organisation wurde ins Leben gerufen, um ein neues Ökosystem für Nutzer und Entwickler zu schaffen. Es umfasst verschiedene Unterprojekte, wie eigene Spiele, Plattformen und vieles mehr. Darüber hinaus legt Airzade den Fokus darauf, in Zukunft eigene Spiele sowie Tools für die Spieleentwicklung, wie beispielsweise eine eigene Engine, zu entwickeln. Zudem strebt die Organisation an, Software-Plattformen wie eine Musikplattform und andere Softwarelösungen zu schaffen.
+Die ```Airzade-Organisation``` wurde ins Leben gerufen, um ein neues Ökosystem für Nutzer und Entwickler zu schaffen. Es umfasst verschiedene Unterprojekte, wie eigene Spiele, Plattformen und vieles mehr. Darüber hinaus legt Airzade den Fokus darauf, in Zukunft eigene Spiele sowie Tools für die Spieleentwicklung, wie beispielsweise eine eigene Engine, zu entwickeln. Zudem strebt die Organisation an, Software-Plattformen wie eine Musikplattform und andere Softwarelösungen zu schaffen.
 
 ### Für was steht Airzade:
 - A - Anwendungen
