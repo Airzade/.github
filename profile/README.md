@@ -18,19 +18,22 @@ Dazu gehören:
 
 ---
 
-## Bedeutung von Airzade
+## Bedeutung von Airzade 
 
-| Buchstabe | Bedeutung |
-|------------|------------|
-| A | Anwendungen |
-| I | Innovation |
-| R | Ressourcen |
-| Z | Zusammenarbeit |
-| A | Austausch |
-| D | Dienstleistungen |
-| E | Entwicklung |
+| Buchstabe | Neue Bedeutung | Erklärung |
+|----------|----------------|-----------|
+| **A** | **Art & Assets** | Kreative Inhalte wie Grafiken, Sounds, Animationen und Ressourcen für Spiele |
+| **I** | **Innovation** | Neue Ideen, Technologien und moderne Ansätze in der Spieleentwicklung |
+| **R** | **Runtime & Resources** | Engines, Laufzeitsysteme und effiziente Ressourcenverwaltung |
+| **Z** | **Zusammenarbeit** | Community, Teamwork, Open-Collaboration und gemeinsames Entwickeln |
+| **A** | **Accessibility** | Niedrige Einstiegshürden, einfache Tools und gute Dokumentation |
+| **D** | **Development** | Der gesamte Entwicklungsprozess – von Prototyping bis Release |
+| **E** | **Ecosystem** | Ein vernetztes System aus Engine, Tools, Plattform und Community |
 
-Diese Werte bilden das Fundament unserer Arbeit – von der Planung neuer Projekte bis hin zur technischen Umsetzung.
+### Kurzfassung
+
+**Airzade** steht für ein **offenes Gaming-Ökosystem**, das Kreativität, Technologie und Community vereint.  
+Von Assets über Engine-Technologie bis hin zu Publishing und Zusammenarbeit – alles greift nahtlos ineinander.
 
 ---
 
